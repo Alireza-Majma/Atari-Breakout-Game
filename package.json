@@ -2,8 +2,8 @@
   "name": "react-ts-mobx-bootstrap",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/b-tiwari/react-ts-mobx-bootstrap.git",
-  "author": "Bharat Tiwari",
+  "repository": "https://github.com/Alireza-Majma/Atari-Breakout-Game.git",
+  "author": "Alireza Majma",
   "license": "MIT",
   "private": false,
   "scripts": {
